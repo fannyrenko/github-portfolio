@@ -1,3 +1,3 @@
-# github-portfolio
+# GitHub Portfolio
 
-<a href='./frontend/index.html'>Link test</a>'
+Welcome to my GitHub portfolio! Here, you'll find a collection of code snippets and projects showcasing my skills in various programming languages and technologies.
